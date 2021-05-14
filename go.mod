@@ -1,6 +1,6 @@
 module sigs.k8s.io/etcdadm
 
-go 1.12
+go 1.16
 
 require (
 	github.com/coreos/bbolt v1.3.1-coreos.6 // indirect
